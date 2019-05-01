@@ -9,15 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<!-- <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -37,23 +28,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+	<section>
+		<a href="{% post_url 2019-5-01-gucci %}" class="image" style="background: url('assets/images/gucci/gucci_1.png') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Gucci Beauty</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2019-5-1-gucci %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
