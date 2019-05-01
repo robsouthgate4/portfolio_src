@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem gemspec
+gem 'jekyll', group: :jekyll_plugins
