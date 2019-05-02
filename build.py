@@ -1,14 +1,16 @@
-import shutil
-import os
+# import shutil
+# import os
 
-def copytree(src, dst, symlinks=False, ignore=None):
-    for item in os.listdir(src):
-        s = os.path.join(src, item)
-        d = os.path.join(dst, item)
-        if os.path.isdir(s):
-            if os.path.isdir(d):
-                shutil.rmtree(d)
-                shutil.copytree(s, d, symlinks, ignore)
+# def copytree(src, dst, symlinks=False, ignore=None):
+#     for item in os.listdir(src):
+#         print(item)
+#         s = os.path.join(src, item)
+#         d = os.path.join(dst, item)       
+#         shutil.rmtree(d) 
+#         if os.path.isdir(s):            
+#             shutil.copytree(s, d, symlinks, ignore)
+#         else:
+#             shutil.copy(s, d)
 
 
-copytree('_site', '../robsouthgate4.github.io')
+# copytree('_site', '../robsouthgate4.github.io')

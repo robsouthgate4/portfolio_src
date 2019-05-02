@@ -4,6 +4,7 @@ layout: landing
 description: 'Work Developed in the Unity 3D Engine'
 image: assets/images/mario/mario_game.jpg
 nav-menu: true
+show-tile: true
 ---
 
 <!-- Main -->

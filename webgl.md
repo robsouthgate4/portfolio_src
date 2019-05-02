@@ -1,9 +1,10 @@
 ---
 title: WebGL
-layout: landing
+layout: webgl
 description: 'WebGL based projects'
-image: assets/images/pic07.jpg
+image: assets/images/mustang/3.png
 nav-menu: true
+show-tile: true
 ---
 
 <!-- Main -->
@@ -22,38 +23,23 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="{% post_url 2019-5-2-mustang %}" class="image" style="background: url('assets/images/mustang/2.png') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Super Mario AR</h3>
+					<h3>Ford Mustang Procedural logo generator</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				This WebGL based app allowed customers to personalize the Pony emblem on a range of devices. It hosts a set of color choices and designs, each corresponding to and inspired by the five Mustang models.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2019-5-2-mustang %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -68,11 +54,11 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -82,6 +68,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>

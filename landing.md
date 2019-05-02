@@ -4,6 +4,7 @@ layout: landing
 description: 'AR effects for Facebook and Instagram'
 image: assets/images/dior/dior1.jpg
 nav-menu: true
+show-tile: true
 ---
 
 <!-- Main -->
@@ -29,7 +30,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="{% post_url 2019-5-01-gucci %}" class="image" style="background: url('assets/images/gucci/gucci_1.png') no-repeat center center; background-size: cover">
+		<a href="{% post_url 2019-5-1-gucci %}" class="image" style="background: url('assets/images/gucci/gucci_1.png') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
 			<div class="inner">
