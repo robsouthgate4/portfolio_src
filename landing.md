@@ -14,6 +14,21 @@ show-tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="{% post_url 2019-4-28-anthem %}" class="image" style="background: url('assets/images/anthem/anthem_cover2.jpg') no-repeat center center; background-size: cover">
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>EA play event AR filter</h3>
+				</header>
+				<p>Spark AR Project, Mill London</p>
+				<ul class="actions">
+					<li><a href="{% post_url 2019-4-28-anthem %}" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="{% post_url 2019-4-29-dior %}" class="image" style="background: url('assets/images/dior/dior1.jpg') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
@@ -44,7 +59,7 @@ show-tile: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>	
 	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />

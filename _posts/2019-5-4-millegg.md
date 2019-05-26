@@ -20,16 +20,17 @@ image: null
 			</ul>
 
 		<p>
-			The Ford Mustang web app was a colaborative project between AKQA and The Mill.
+			The Mill Eggstractor web app was built as a fun easter competition for The Mill employees in easter 2018.
 			<br><br>
-			It was built using WebGL and the Three.js framework to speed up Development. We were a team of 3 Developers who were tasked with building
-			a web app where users could create completely unique logo designers by dragging their finger over a power gauge.
+			We only had 1 week to design and build so we had think fast and apply our learnings from previous projects to get it live and ready for the competition.
 			<br><br>
-			In order for this to work, we each wrote custom GLSL shaders that used various noise paramaters in order to drive the random output.
+			The key features include a custom, lightweight PBR shader written bespoke for the project. This meant we could apply the realistic foil material combined with the generative patterns that the user generated.
 			<br><br>
-			Users were then able to take their designs and through the app, print their own merchandise such as a real car Emblem and mobile phone covers
+			Users were able to download their designs and post them to Instagram using a specific hashtag so they were trackable by the marketing team. 
 			<br><br>
-			Credits: The Mill, AKQA
+			Below are screen grabs of the app in full flow.
+			<br><br>
+			Credits: The Mill
 		</p>
 	</div>
 	<div class="12u 12u$(small)">
