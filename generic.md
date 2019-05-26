@@ -23,16 +23,17 @@ show-tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="{% post_url 2016-8-23-magna %}" class="image" style="background: url('assets/images/mario/mario_game.jpg') no-repeat center center; background-size: cover">
+		<a href="" class="image" style="background: url('assets/images/mario/mario_game.jpg') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Super Mario AR</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Project coming soon...</p>
+				<p style="height: 100px;"></p>
 				<ul class="actions">
-					<li><a href="{% post_url 2016-8-23-magna %}" class="button">Learn more</a></li>
+					<!-- <li><a href="" class="button">Learn more</a></li> -->
 				</ul>
 			</div>
 		</div>

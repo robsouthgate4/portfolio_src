@@ -22,7 +22,8 @@ show-tile: true
 					<h3>Dior Color Quake</h3>
 				</header>
 				<p>
-				Taking inspiration from Dior's Fall/Winter 2018 show, Mill+ recreated some of Dior’s standout sunglasses, Colorquake. Using the Facebook app, users are invited to become part of the Dior universe and try on the Colorquake sunglasses, cycle through the colourways and share their own Dior campaign with their friends.</p>
+				Spark AR project, Mill London
+				</p>
 				<ul class="actions">
 					<li><a href="{% post_url 2019-4-29-dior %}" class="button">Learn more</a></li>
 				</ul>
@@ -37,7 +38,7 @@ show-tile: true
 				<header class="major">
 					<h3>Gucci Beauty</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Spark AR Project, Mill London</p>
 				<ul class="actions">
 					<li><a href="{% post_url 2019-5-1-gucci %}" class="button">Learn more</a></li>
 				</ul>

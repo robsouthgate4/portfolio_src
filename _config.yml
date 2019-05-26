@@ -1,8 +1,8 @@
 # site settings
-title: Rob Southgate Realtime Developer
+title: Rob Southgate Creative Developer
 subtitle: Creative coding
 email: robsouthgate4@gmail.com
-description: Realtime Developer for The Mill London
+description: Creative Developer for The Mill London
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://robsouthgate4.github.io/" # the base hostname & protocol for your site
 author: Robert Southgate

@@ -31,7 +31,7 @@ show-tile: true
 					<h3>Ford Mustang Procedural logo generator</h3>
 				</header>
 				<p>
-				This WebGL based app allowed customers to personalize the Pony emblem on a range of devices. It hosts a set of color choices and designs, each corresponding to and inspired by the five Mustang models.
+				Generative logo creator, developed with WebGL and Three.js
 				</p>
 				<ul class="actions">
 					<li><a href="{% post_url 2019-5-2-mustang %}" class="button">Learn more</a></li>
@@ -39,22 +39,23 @@ show-tile: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+	<section>
+		<a href="{% post_url 2019-5-4-millegg %}" class="image" style="background: url('assets/images/egg/landing.jpg') no-repeat center center; background-size: cover">
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>The Mill eggstractor competition</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+					Generative easter egg creator, developed with WebGL and Three.js
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2019-5-4-millegg %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
-	</section> -->
+	</section>
 </section>
 
 <!-- Three -->

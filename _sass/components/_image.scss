@@ -7,7 +7,11 @@
 /* Image */
 
 img {
-    max-width: 100%;
+	max-width: 956px;
+}
+
+video, iframe {
+	max-width: 957px !important;
 }
 
 .image {
